@@ -1,0 +1,25 @@
+body {
+	font-size: 25px;
+	font-family: Garamond, Georgia, Courier;
+	color: navy;
+	background-color: aqua;
+	border-style: dotted;
+	border-width: 3px;
+	border-color: navy;
+	text-align: center;
+}
+h2 {
+	text-align: left;
+	margin: 10px;
+}
+
+h3 {
+	text-align: left;
+	margin: 10px;
+}
+
+h4 {
+	text-align: left;
+	font-weight: lighter;
+	margin: 10px;
+}
